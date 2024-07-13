@@ -40,7 +40,7 @@ This project showcases an interactive e-commerce sales dashboard created using [
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/madhav-ecommerce-sales-dashboard.git
+    git clone https://github.com/AdityaSrivastavDS/Madhav-Ecommerce-Sales-Dashboard.git
     ```
 2. Open the dashboard file using [Power BI/Tableau/other tool].
 3. Interact with the dashboard using filters and visualizations to explore the data.
